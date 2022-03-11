@@ -16,3 +16,6 @@ export default class Halfling extends Race {
     return this.instances;
   }
 }
+
+// Link de pesquisa em como fazer o counter de Instancias
+// https://stackoverflow.com/questions/28947571/how-to-count-number-of-instances-of-a-class
